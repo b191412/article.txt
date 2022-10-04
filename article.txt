@@ -1,0 +1,51 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\date{5-08-2022}
+\begin{document}
+\maketitle
+\section{\LARGE{\color{purple}MY SELF INTRODUCTION}}
+NAME:D.Bhavani\\
+ID:B191412\\
+FATHER NAME:D.Ramulu\\
+MOTHER NAME:D.Lavanya\\
+\section{\color{blue}{MY MARKS}}
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|l|r|}
+\hline
+   s.no  &  subject & marks\\
+   \hline
+    1. & maths&24\\
+    \hline
+    2.&english&25\\
+    \hline 
+\end{tabular}
+\end{table}
+\section{\huge{\color{red}MY HOBBIES}}
+\begin{enumerate}
+    \item dancing
+    \item playing chess and badminton
+    \item reading books
+    \item listening music
+\end{enumerate}
+\section{\underline{\color{green}EXTRA CURICULAR ACTIVITIES}}
+\begin{itemize}
+    \item ncc
+    \item karate
+    \item classical dance
+\end{itemize}
+\section{\color{orange}ACHIVEMENTS}
+\begin{itemize}
+    \item 10 gpa in 10th class
+    \item 1st price in chess
+\end{itemize}
+\section{\color{brown}IMAGE REPRESENTATION}
+\begin{figure}[h]
+    \centering
+    \includegraphics[scale=0.25]
+    {krishna.jpg}
+ \caption{HARE KRISHNA}
+\end{figure}
+\end{document}
